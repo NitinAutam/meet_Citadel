@@ -1,0 +1,4584 @@
+[
+  {
+    "id": 1,
+    "name": "Advaith Sharma",
+    "demographics": {
+      "age": 22,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Movies",
+      "Gaming",
+      "Coding",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        60,
+        42,
+        76,
+        87,
+        35,
+        63,
+        33,
+        41,
+        90,
+        96
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Love Movies, Gaming, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/59.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Movies meetup without telling anyone"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Movies and a bit of Gaming"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aarush Gandhi",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Art",
+      "Travel",
+      "Movies",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        42,
+        4
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Art, learning Travel, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/33.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Art and a bit of Travel"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Travel > Movies"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Turvi Kari",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Books",
+      "Gaming",
+      "Movies",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        43,
+        11,
+        88,
+        73,
+        66,
+        16,
+        51,
+        25,
+        93,
+        36
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "When not doing Books, I\u2019m probably discussing Gaming with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/22.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wridesh Issac",
+    "demographics": {
+      "age": 17,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Fitness",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        90
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Trying to balance Fitness with late-night Coding binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/61.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Fitness meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Fitness and ended up loving it more than Coding"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Aachal Mangal",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Art",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Likes techies"
+      ]
+    },
+    "bio": "Love Gaming, Travel, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/23.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Gaming meetup without telling anyone"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Travel > Art"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chandran Maharaj",
+    "demographics": {
+      "age": 19,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Music",
+      "Coding",
+      "Books",
+      "Travel",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        78,
+        47
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "When not doing Music, I\u2019m probably discussing Coding with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/31.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Coding"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Music and a bit of Coding"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Anita Yogi",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Coding",
+      "Startups",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        69,
+        33,
+        93,
+        5,
+        42,
+        89,
+        24,
+        75,
+        99
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Trying to balance Coding with late-night Startups binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/68.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Coding and ended up loving it more than Startups"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Coding meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Quincy Varma",
+    "demographics": {
+      "age": 26,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Gaming",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        2,
+        44,
+        26,
+        10,
+        27,
+        54,
+        28,
+        16
+      ],
+      "response_patterns": [
+        "Likes shared interests",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Love Gaming, Startups, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/45.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Startups > tea"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Gaming and ended up loving it more than Startups"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Eesha Virk",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Art",
+      "Startups",
+      "Travel",
+      "Movies",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        50,
+        97,
+        53,
+        66,
+        16,
+        67,
+        6,
+        62
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Art, learning Startups, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/37.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Art and ended up loving it more than Startups"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Startups > Travel"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nitara Kanda",
+    "demographics": {
+      "age": 25,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 1,
+      "graduation_year": 2030
+    },
+    "interests": [
+      "Art",
+      "Fitness",
+      "Travel",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        32,
+        54,
+        29,
+        100,
+        4,
+        19,
+        38
+      ],
+      "response_patterns": [
+        "Likes techies",
+        "Prefers same university"
+      ]
+    },
+    "bio": "Love Art, Fitness, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/39.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Art and my obsession with Fitness"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Art and ended up loving it more than Fitness"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chakrika Ghosh",
+    "demographics": {
+      "age": 19,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Music",
+      "Fitness",
+      "Books",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        52,
+        3,
+        68,
+        97,
+        48,
+        36,
+        53
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Big fan of Music and Fitness. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/48.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Fitness"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Fitness"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Nachiket Aurora",
+    "demographics": {
+      "age": 25,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 4,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Football",
+      "Music",
+      "Art",
+      "Coding",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        93,
+        15,
+        75,
+        87,
+        39,
+        13,
+        45,
+        98
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Love Football, Music, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/36.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Football meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Music"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Harrison Magar",
+    "demographics": {
+      "age": 25,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 3,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Fitness",
+      "Art",
+      "Movies",
+      "Music",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        13,
+        88,
+        98,
+        58,
+        82,
+        26,
+        55
+      ],
+      "response_patterns": [
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "When not doing Fitness, I\u2019m probably discussing Art with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/14.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Fitness, or why Art > Movies"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Fitness and my obsession with Art"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Harshil Bir",
+    "demographics": {
+      "age": 22,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Music",
+      "Football",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        78,
+        11,
+        3,
+        58,
+        36,
+        39,
+        41,
+        37
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Likes techies"
+      ]
+    },
+    "bio": "Love Music, Football, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/1.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Music, or why Football > Fitness"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mitali Chandra",
+    "demographics": {
+      "age": 25,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 1,
+      "graduation_year": 2030
+    },
+    "interests": [
+      "Books",
+      "Travel",
+      "Art",
+      "Football",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        75,
+        53,
+        61
+      ],
+      "response_patterns": [
+        "Likes techies"
+      ]
+    },
+    "bio": "Love Books, Travel, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/32.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Books and my obsession with Travel"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ikshita Wadhwa",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Music",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        60,
+        99,
+        83,
+        73,
+        72
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "When not doing Music, I\u2019m probably discussing Fitness with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/91.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Fitness"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Music, or why Fitness > tea"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kalpit Saini",
+    "demographics": {
+      "age": 20,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Football",
+      "Travel",
+      "Fitness",
+      "Art",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        72,
+        1,
+        35,
+        51,
+        68
+      ],
+      "response_patterns": [
+        "Likes shared interests",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Trying to balance Football with late-night Travel binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/58.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Travel"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Travel"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Raghav Pandit",
+    "demographics": {
+      "age": 22,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Art",
+      "Football",
+      "Startups",
+      "Gaming",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        54,
+        60
+      ],
+      "response_patterns": [
+        "Likes techies"
+      ]
+    },
+    "bio": "Trying to balance Art with late-night Football binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/34.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Art and a bit of Football"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Art meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Vasudha Lad",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Gaming",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        48,
+        31,
+        29,
+        45,
+        41
+      ],
+      "response_patterns": [
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Gaming, Books, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/79.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Gaming and ended up loving it more than Books"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Books > tea"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Darpan Mander",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Startups",
+      "Coding",
+      "Gaming",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "When not doing Startups, I\u2019m probably discussing Coding with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/20.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Startups, or why Coding > Gaming"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Startups and my obsession with Coding"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Unnati Wable",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Music",
+      "Startups",
+      "Books",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        13,
+        83,
+        70,
+        26,
+        44,
+        41
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Big fan of Music and Startups. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/44.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Vinaya Gandhi",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Startups",
+      "Books",
+      "Fitness",
+      "Art",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        36,
+        8,
+        60,
+        4,
+        30,
+        100
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Startups, learning Books, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/28.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Startups and a bit of Books"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Startups meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Yashasvi Boase",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Books",
+      "Travel",
+      "Art",
+      "Startups",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        74,
+        11,
+        90,
+        100,
+        80,
+        43,
+        83,
+        70,
+        28
+      ],
+      "response_patterns": [
+        "Engages with funny bios",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Currently into Books, learning Travel, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/98.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Books, or why Travel > Art"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Books and a bit of Travel"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Yauvani Sood",
+    "demographics": {
+      "age": 29,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Books",
+      "Travel",
+      "Gaming",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        28,
+        27,
+        60,
+        14,
+        90,
+        17,
+        32,
+        52,
+        11,
+        20
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Books, learning Travel, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/60.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Books and my obsession with Travel"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Books and a bit of Travel"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Tamanna Deshpande",
+    "demographics": {
+      "age": 21,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Art",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        18,
+        82,
+        79
+      ],
+      "response_patterns": [
+        "Likes shared interests",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Trying to balance Art with late-night Books binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/50.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Art and my obsession with Books"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Art and a bit of Books"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zilmil Vasa",
+    "demographics": {
+      "age": 29,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Coding",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        92,
+        58,
+        32,
+        9,
+        80,
+        97,
+        88,
+        62,
+        19,
+        63
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Coding, Books, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/56.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Coding meetup without telling anyone"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Coding meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ikbal Kakar",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Fitness",
+      "Startups",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        6,
+        92,
+        94,
+        4
+      ],
+      "response_patterns": [
+        "No strong pattern"
+      ]
+    },
+    "bio": "Currently into Fitness, learning Startups, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/99.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Fitness and my obsession with Startups"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Fitness meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ganga Mohan",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Football",
+      "Coding",
+      "Fitness",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        95,
+        8,
+        33,
+        16,
+        32,
+        68,
+        11
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "Currently into Football, learning Coding, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/79.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Football and my obsession with Coding"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Coding"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Bakhshi Mall",
+    "demographics": {
+      "age": 28,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 3,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Art",
+      "Fitness",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        41,
+        67,
+        23,
+        93,
+        26,
+        84,
+        79,
+        29
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Big fan of Art and Fitness. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/60.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Fitness > Music"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Art and my obsession with Fitness"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ikbal Gopal",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Books",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        45,
+        70,
+        81,
+        38,
+        41,
+        11,
+        48,
+        56,
+        69,
+        34
+      ],
+      "response_patterns": [
+        "Engages with funny bios",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "When not doing Music, I\u2019m probably discussing Books with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/4.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Books"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Noah Dugal",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Art",
+      "Coding",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        40,
+        7,
+        34,
+        84,
+        38
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Currently into Art, learning Coding, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/82.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Coding > Startups"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Coding > Startups"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Jacob Parmar",
+    "demographics": {
+      "age": 18,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Gaming",
+      "Art",
+      "Movies",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        17,
+        11,
+        83,
+        37,
+        13,
+        52,
+        100,
+        4,
+        26,
+        84
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Prefers same university"
+      ]
+    },
+    "bio": "Big fan of Gaming and Art. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/82.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Gaming meetup without telling anyone"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Gaming and a bit of Art"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Hardik Babu",
+    "demographics": {
+      "age": 28,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Coding",
+      "Art",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        47,
+        2,
+        67,
+        30,
+        9,
+        57
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "When not doing Music, I\u2019m probably discussing Coding with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/28.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Coding"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Fiyaz Raman",
+    "demographics": {
+      "age": 29,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Books",
+      "Startups",
+      "Music",
+      "Coding",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        36
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "Big fan of Books and Startups. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/92.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Wyatt Shenoy",
+    "demographics": {
+      "age": 22,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Fitness",
+      "Startups",
+      "Art",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        66,
+        36,
+        91,
+        2,
+        87,
+        22,
+        35,
+        97
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Love Fitness, Startups, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/66.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Fitness and my obsession with Startups"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Fitness and a bit of Startups"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Jagvi Manda",
+    "demographics": {
+      "age": 17,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Art",
+      "Gaming",
+      "Football",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        37,
+        8,
+        26,
+        71,
+        92,
+        86,
+        100,
+        16,
+        5,
+        48
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Love Art, Gaming, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/5.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Gaming > Football"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Art meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Owen Mannan",
+    "demographics": {
+      "age": 23,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Travel",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        68,
+        28,
+        74,
+        15,
+        66,
+        11,
+        4,
+        94,
+        9
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Likes techies"
+      ]
+    },
+    "bio": "Currently into Travel, learning Startups, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/90.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Travel meetup without telling anyone"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Startups"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Anamika Narang",
+    "demographics": {
+      "age": 29,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "PhD",
+      "year_in_college": 3,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Music",
+      "Coding",
+      "Movies",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        81,
+        30,
+        5,
+        67,
+        70,
+        96,
+        27,
+        77
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Currently into Music, learning Coding, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/23.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Music and a bit of Coding"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Coding"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Triya Natarajan",
+    "demographics": {
+      "age": 18,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Gaming",
+      "Startups",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        69,
+        59,
+        41
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Trying to balance Gaming with late-night Startups binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/14.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Startups > Football"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Startups"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Qadim Narang",
+    "demographics": {
+      "age": 20,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Music",
+      "Coding",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Engages with funny bios",
+        "Prefers same university"
+      ]
+    },
+    "bio": "When not doing Travel, I\u2019m probably discussing Gaming with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/52.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Travel, or why Gaming > Music"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Travel and a bit of Gaming"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Tanay Bumb",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Football",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        64,
+        18,
+        95,
+        41
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Trying to balance Gaming with late-night Travel binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/68.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Travel"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Gaming meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Aarna Chahal",
+    "demographics": {
+      "age": 25,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 3,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Music",
+      "Books",
+      "Coding",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        8,
+        19,
+        10,
+        70,
+        82,
+        3,
+        63
+      ],
+      "response_patterns": [
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Trying to balance Music with late-night Books binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/65.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Music, or why Books > Coding"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Books"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Rachita Master",
+    "demographics": {
+      "age": 25,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 3,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Football",
+      "Music",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        92
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Currently into Travel, learning Gaming, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/52.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Travel, or why Gaming > Football"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Gaming"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Isha Mistry",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        97,
+        14,
+        52,
+        5,
+        36,
+        17,
+        89
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Love Football, Movies, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/46.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Movies"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Football meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Manthan Ganguly",
+    "demographics": {
+      "age": 23,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Books",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        91,
+        86,
+        5,
+        33,
+        54,
+        32,
+        44,
+        14
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Books with late-night Football binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/0.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Books and ended up loving it more than Football"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ekta Kohli",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Coding",
+      "Travel",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        44,
+        8,
+        15,
+        27,
+        37,
+        93,
+        84,
+        43,
+        72,
+        23
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Big fan of Football and Coding. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/26.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Coding"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Coding"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Amaira Khosla",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 6,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Startups",
+      "Music",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        27,
+        15
+      ],
+      "response_patterns": [
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Football, Startups, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/69.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Startups"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Startups"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Azaan Varty",
+    "demographics": {
+      "age": 29,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Fitness",
+      "Books",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        23
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Love Fitness, Books, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/62.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Fitness and a bit of Books"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Fitness meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Aarush Kaur",
+    "demographics": {
+      "age": 22,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Books",
+      "Coding",
+      "Movies",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        51
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Books with late-night Coding binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/2.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Books, or why Coding > Movies"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Harini Hora",
+    "demographics": {
+      "age": 30,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 4,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Startups",
+      "Fitness",
+      "Football",
+      "Art",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        100,
+        18,
+        3,
+        68,
+        16,
+        84,
+        14,
+        92,
+        4
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Startups with late-night Fitness binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/64.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Startups, or why Fitness > Football"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Startups and a bit of Fitness"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Nidhi Balan",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Movies",
+      "Music",
+      "Gaming",
+      "Art",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        56,
+        18,
+        45,
+        83
+      ],
+      "response_patterns": [
+        "Likes techies"
+      ]
+    },
+    "bio": "Trying to balance Movies with late-night Music binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/49.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Movies and ended up loving it more than Music"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Movies and ended up loving it more than Music"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Chandani Dada",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        77,
+        16,
+        18,
+        48,
+        24,
+        44,
+        30
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Love Football, Coding, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/69.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Football meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Coding"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Thomas Deol",
+    "demographics": {
+      "age": 30,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 6,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Travel",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        21,
+        89,
+        63,
+        47,
+        36,
+        34,
+        88,
+        49,
+        80,
+        18
+      ],
+      "response_patterns": [
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "Big fan of Travel and Football. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/45.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Travel and a bit of Football"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Football"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Andrew Sundaram",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Coding",
+      "Art",
+      "Gaming",
+      "Movies",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        45,
+        22,
+        48,
+        81,
+        23,
+        82,
+        13,
+        90,
+        63,
+        60
+      ],
+      "response_patterns": [
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Trying to balance Coding with late-night Art binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/83.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Coding and a bit of Art"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Coding and ended up loving it more than Art"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Qabil Sampath",
+    "demographics": {
+      "age": 17,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Travel",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        53,
+        66,
+        83,
+        59,
+        90
+      ],
+      "response_patterns": [
+        "Likes shared interests",
+        "No strong pattern"
+      ]
+    },
+    "bio": "Currently into Travel, learning Fitness, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/95.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Fitness"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Travel, or why Fitness > tea"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Advika Ramanathan",
+    "demographics": {
+      "age": 17,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        90,
+        28,
+        47,
+        91,
+        57,
+        25,
+        27
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "When not doing Football, I\u2019m probably discussing Music with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/80.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Football and ended up loving it more than Music"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Football and my obsession with Music"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Manbir Ben",
+    "demographics": {
+      "age": 18,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Startups",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        45,
+        26,
+        37,
+        90
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Trying to balance Travel with late-night Gaming binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/42.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Travel meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Travel and ended up loving it more than Gaming"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Nihal Golla",
+    "demographics": {
+      "age": 17,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 3,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Startups",
+      "Books",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        17,
+        23,
+        37,
+        56
+      ],
+      "response_patterns": [
+        "Engages with funny bios",
+        "No strong pattern"
+      ]
+    },
+    "bio": "When not doing Music, I\u2019m probably discussing Startups with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/40.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Music, or why Startups > Books"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Music and a bit of Startups"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arunima Ramakrishnan",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Startups",
+      "Movies",
+      "Books",
+      "Coding",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        84,
+        23,
+        1,
+        15
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Love Startups, Movies, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/56.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Startups meetup without telling anyone"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Startups, or why Movies > Books"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Reyansh Dugar",
+    "demographics": {
+      "age": 27,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 4,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Movies",
+      "Art",
+      "Fitness",
+      "Music",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        11
+      ],
+      "response_patterns": [
+        "Likes techies",
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Love Movies, Art, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/88.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Movies, or why Art > Fitness"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Movies and a bit of Art"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Aryan Tara",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Movies",
+      "Startups",
+      "Fitness",
+      "Music",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        58,
+        86,
+        67,
+        23,
+        28
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "Big fan of Movies and Startups. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/52.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Movies and ended up loving it more than Startups"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Movies, or why Startups > Fitness"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Anya Saini",
+    "demographics": {
+      "age": 20,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Coding",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "When not doing Gaming, I\u2019m probably discussing Travel with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/65.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Travel > Coding"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Gaming, or why Travel > Coding"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Jagrati Iyer",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Fitness",
+      "Startups",
+      "Gaming",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        61,
+        35,
+        74,
+        85,
+        75
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Big fan of Fitness and Startups. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/25.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Fitness meetup without telling anyone"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Fitness and ended up loving it more than Startups"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Wyatt Ramaswamy",
+    "demographics": {
+      "age": 17,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Movies",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        85,
+        27,
+        49,
+        23,
+        94,
+        7,
+        86,
+        76,
+        52
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Currently into Movies, learning Startups, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/92.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Movies and a bit of Startups"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Movies and a bit of Startups"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Krishna Thakkar",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Art",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Big fan of Art and Music. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/74.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Art and my obsession with Music"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Art meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ira Nadig",
+    "demographics": {
+      "age": 20,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Startups",
+      "Travel",
+      "Gaming",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Likes techies"
+      ]
+    },
+    "bio": "Trying to balance Startups with late-night Travel binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/43.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Startups, or why Travel > Gaming"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Startups and my obsession with Travel"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Hemang Acharya",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Football",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        3,
+        79,
+        4,
+        12,
+        47
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Football, learning Travel, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/14.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Travel"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Football and my obsession with Travel"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Viraj Shenoy",
+    "demographics": {
+      "age": 20,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 3,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Football",
+      "Movies",
+      "Books",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        18,
+        85,
+        92,
+        28,
+        32,
+        63,
+        27,
+        13
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Big fan of Music and Football. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/74.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Football"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Football"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Vasana Singhal",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Books",
+      "Art",
+      "Fitness",
+      "Movies",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        45,
+        83,
+        51,
+        39,
+        55,
+        60,
+        31,
+        74
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Love Books, Art, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/25.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Books, or why Art > Fitness"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Books and my obsession with Art"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Zayyan Master",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        78,
+        29,
+        48,
+        19,
+        75,
+        86,
+        57,
+        51,
+        99,
+        38
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Big fan of Travel and Gaming. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/93.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Gaming"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Travel and a bit of Gaming"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Janaki Mohanty",
+    "demographics": {
+      "age": 28,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 4,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Gaming",
+      "Music",
+      "Books",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        5,
+        61,
+        65,
+        99,
+        38
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Likes techies"
+      ]
+    },
+    "bio": "Trying to balance Gaming with late-night Music binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/84.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Music"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Music"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Qasim Bedi",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Music",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        4,
+        51,
+        59,
+        31,
+        30,
+        48,
+        77
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Big fan of Music and Art. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/56.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Art"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Art"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Atharv Thakkar",
+    "demographics": {
+      "age": 17,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Gaming",
+      "Startups",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        5,
+        80,
+        9,
+        45
+      ],
+      "response_patterns": [
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Gaming, Startups, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/92.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Gaming and ended up loving it more than Startups"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Gaming and a bit of Startups"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Devika Sharma",
+    "demographics": {
+      "age": 29,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Art",
+      "Music",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        64,
+        50,
+        95,
+        40,
+        32,
+        38,
+        59,
+        82,
+        71
+      ],
+      "response_patterns": [
+        "Likes techies",
+        "No strong pattern"
+      ]
+    },
+    "bio": "Currently into Gaming, learning Travel, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/41.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Travel"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Gaming meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Balendra Sastry",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Movies",
+      "Coding",
+      "Fitness",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        64,
+        62,
+        90,
+        95,
+        100,
+        40,
+        88,
+        94,
+        72,
+        19
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Prefers same university"
+      ]
+    },
+    "bio": "Love Football, Movies, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/84.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Football and my obsession with Movies"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Movies"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Yashodhara Tella",
+    "demographics": {
+      "age": 29,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Startups",
+      "Coding",
+      "Football",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        4
+      ],
+      "response_patterns": [
+        "Engages with funny bios",
+        "Prefers same university"
+      ]
+    },
+    "bio": "Big fan of Startups and Coding. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/21.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Startups and my obsession with Coding"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Startups and a bit of Coding"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Isaiah Sane",
+    "demographics": {
+      "age": 19,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Fitness",
+      "Art",
+      "Gaming",
+      "Startups",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        90,
+        51,
+        13,
+        19,
+        97,
+        88,
+        59
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Likes techies"
+      ]
+    },
+    "bio": "Love Fitness, Art, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/21.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Fitness and ended up loving it more than Art"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Fitness and my obsession with Art"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Chaitaly Shukla",
+    "demographics": {
+      "age": 24,
+      "gender": "Female",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 5,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Gaming",
+      "Fitness"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        86,
+        53,
+        58,
+        20,
+        24,
+        48
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Currently into Gaming, learning Fitness, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/27.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Gaming and my obsession with Fitness"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Gaming and ended up loving it more than Fitness"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Mohammed Patil",
+    "demographics": {
+      "age": 18,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "BTech",
+      "year_in_college": 3,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Art",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        1
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Likes techies"
+      ]
+    },
+    "bio": "Trying to balance Art with late-night Gaming binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/49.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Art and a bit of Gaming"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Gaming > tea"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Maanas Roy",
+    "demographics": {
+      "age": 19,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Art",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        98,
+        53,
+        37,
+        74,
+        30,
+        34
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Art with late-night Music binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/35.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Music > tea"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Art meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chakradhar Srinivasan",
+    "demographics": {
+      "age": 27,
+      "gender": "Male",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "PhD",
+      "year_in_college": 6,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Art",
+      "Coding",
+      "Travel",
+      "Startups",
+      "Books"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        87,
+        98,
+        29,
+        38,
+        74,
+        79,
+        56
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Currently into Art, learning Coding, and dreaming of startups.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/57.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Art and ended up loving it more than Coding"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Art and a bit of Coding"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Yashawini Dass",
+    "demographics": {
+      "age": 26,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "PhD",
+      "year_in_college": 6,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Books",
+      "Fitness",
+      "Art",
+      "Travel",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        37,
+        11,
+        93,
+        15,
+        94,
+        34,
+        31,
+        38
+      ],
+      "response_patterns": [
+        "Likes shared interests",
+        "Prefers same university"
+      ]
+    },
+    "bio": "Trying to balance Books with late-night Fitness binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/98.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Books and a bit of Fitness"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Books, or why Fitness > Art"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Patrick Garde",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Movies",
+      "Gaming"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        55,
+        35,
+        76,
+        53,
+        94,
+        68,
+        64,
+        66,
+        65
+      ],
+      "response_patterns": [
+        "Prefers same university"
+      ]
+    },
+    "bio": "Trying to balance Movies with late-night Gaming binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/52.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Movies, or why Gaming > tea"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Movies and ended up loving it more than Gaming"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Damyanti Mutti",
+    "demographics": {
+      "age": 30,
+      "gender": "Female",
+      "city": "Chennai",
+      "university": "IIT Madras",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Books",
+      "Fitness",
+      "Football"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        36,
+        91,
+        13,
+        87,
+        61,
+        15
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Love Books, Fitness, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/75.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Books meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Abhimanyu Kothari",
+    "demographics": {
+      "age": 18,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Football",
+      "Movies",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        42,
+        23,
+        25,
+        21,
+        32,
+        10,
+        6,
+        27
+      ],
+      "response_patterns": [
+        "No strong pattern",
+        "Engages with funny bios"
+      ]
+    },
+    "bio": "Big fan of Football and Movies. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/77.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Movies"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Football meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Garima Karnik",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 3,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        95,
+        19,
+        58,
+        65,
+        28
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Love Music, Movies, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/57.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Movies"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Music and a bit of Movies"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dhruv Balay",
+    "demographics": {
+      "age": 21,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Fitness",
+      "Coding",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        36,
+        92,
+        83
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Fitness with late-night Coding binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/66.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Fitness and ended up loving it more than Coding"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Fitness and my obsession with Coding"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Nakul Sinha",
+    "demographics": {
+      "age": 20,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Fitness",
+      "Art",
+      "Coding",
+      "Startups",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        17,
+        59,
+        60,
+        3,
+        1
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Fitness with late-night Art binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/6.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Fitness, or why Art > Coding"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Fitness and a bit of Art"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Finn Misra",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Startups",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        58,
+        39,
+        50,
+        83,
+        1,
+        49,
+        61,
+        46,
+        11
+      ],
+      "response_patterns": [
+        "Prefers same university",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Love Startups, Travel, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/18.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Startups and ended up loving it more than Travel"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Startups meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Wishi Iyer",
+    "demographics": {
+      "age": 23,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "MTech",
+      "year_in_college": 2,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Startups",
+      "Art",
+      "Gaming",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        32,
+        92,
+        10,
+        85,
+        64,
+        72,
+        60,
+        65,
+        86,
+        80
+      ],
+      "response_patterns": [
+        "Prefers younger matches",
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Big fan of Startups and Art. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/23.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Startups and a bit of Art"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Startups and a bit of Art"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Vihaan Pal",
+    "demographics": {
+      "age": 23,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "PhD",
+      "year_in_college": 6,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Football",
+      "Art"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        88,
+        33,
+        85,
+        99
+      ],
+      "response_patterns": [
+        "Skips profiles without bios",
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Love Football, Art, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/43.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Football, or why Art > tea"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Football and a bit of Art"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Aashi Ray",
+    "demographics": {
+      "age": 19,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Coding",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        46,
+        62,
+        17,
+        60,
+        12,
+        33,
+        29
+      ],
+      "response_patterns": [
+        "Likes techies",
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "Trying to balance Coding with late-night Music binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/47.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Coding meetup without telling anyone"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Coding and a bit of Music"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Siddharth Chaudhary",
+    "demographics": {
+      "age": 24,
+      "gender": "Male",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Art",
+      "Coding",
+      "Startups",
+      "Movies"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        53,
+        91,
+        24,
+        76,
+        75,
+        82,
+        61
+      ],
+      "response_patterns": [
+        "Skips profiles without bios"
+      ]
+    },
+    "bio": "Trying to balance Art with late-night Coding binges.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/44.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Coding > Startups"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Art, or why Coding > Startups"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Faras Bahri",
+    "demographics": {
+      "age": 23,
+      "gender": "Male",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "PhD",
+      "year_in_college": 4,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Coding",
+      "Books",
+      "Music",
+      "Travel"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        1,
+        23,
+        46,
+        68,
+        41,
+        32,
+        81,
+        76,
+        33
+      ],
+      "response_patterns": [
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Coding, Books, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/31.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Coding and my obsession with Books"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Coding and ended up loving it more than Books"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Yashvi Thaker",
+    "demographics": {
+      "age": 27,
+      "gender": "Female",
+      "city": "Delhi",
+      "university": "IIT Delhi",
+      "degree": "PhD",
+      "year_in_college": 2,
+      "graduation_year": 2029
+    },
+    "interests": [
+      "Music",
+      "Coding",
+      "Books",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        55,
+        60,
+        33,
+        14,
+        20,
+        8,
+        7,
+        34,
+        94,
+        23
+      ],
+      "response_patterns": [
+        "Dislikes long prompts",
+        "Prefers younger matches"
+      ]
+    },
+    "bio": "Big fan of Music and Coding. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/3.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Music and ended up loving it more than Coding"
+      },
+      {
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "answer": "attended a Music meetup without telling anyone"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Sanaya Chakrabarti",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "MTech",
+      "year_in_college": 1,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Books",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        53
+      ],
+      "response_patterns": [
+        "Likes techies",
+        "No strong pattern"
+      ]
+    },
+    "bio": "When not doing Travel, I\u2019m probably discussing Gaming with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/38.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Travel, or why Gaming > Books"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Travel and my obsession with Gaming"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Libni Doctor",
+    "demographics": {
+      "age": 22,
+      "gender": "Female",
+      "city": "Kharagpur",
+      "university": "IIT Kharagpur",
+      "degree": "BTech",
+      "year_in_college": 3,
+      "graduation_year": 2026
+    },
+    "interests": [
+      "Music",
+      "Art",
+      "Football",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        13,
+        8,
+        16,
+        59,
+        94,
+        23
+      ],
+      "response_patterns": [
+        "Engages with funny bios",
+        "No strong pattern"
+      ]
+    },
+    "bio": "Love Music, Art, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/8.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Art"
+      },
+      {
+        "prompt": "People know me for",
+        "answer": "my love of Music and my obsession with Art"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Nidra Sura",
+    "demographics": {
+      "age": 19,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 4,
+      "graduation_year": 2025
+    },
+    "interests": [
+      "Movies",
+      "Coding"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        41
+      ],
+      "response_patterns": [
+        "Likes shared interests"
+      ]
+    },
+    "bio": "Big fan of Movies and Coding. Usually found at fests or hackathons.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/65.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Movies, or why Coding > tea"
+      },
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Movies and ended up loving it more than Coding"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Bachittar Seth",
+    "demographics": {
+      "age": 18,
+      "gender": "Male",
+      "city": "Kanpur",
+      "university": "IIT Kanpur",
+      "degree": "BTech",
+      "year_in_college": 2,
+      "graduation_year": 2027
+    },
+    "interests": [
+      "Books",
+      "Music",
+      "Football",
+      "Startups"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        7,
+        13,
+        38,
+        4,
+        81,
+        60,
+        77
+      ],
+      "response_patterns": [
+        "Likes techies"
+      ]
+    },
+    "bio": "Love Books, Music, and can\u2019t survive without chai.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/men/62.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Books and ended up loving it more than Music"
+      },
+      {
+        "prompt": "My weekends are usually for",
+        "answer": "some Books and a bit of Music"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Vasudha Vohra",
+    "demographics": {
+      "age": 21,
+      "gender": "Female",
+      "city": "Mumbai",
+      "university": "IIT Bombay",
+      "degree": "BTech",
+      "year_in_college": 1,
+      "graduation_year": 2028
+    },
+    "interests": [
+      "Travel",
+      "Gaming",
+      "Coding",
+      "Music"
+    ],
+    "behavioral_data": {
+      "previous_ratings": [
+        77
+      ],
+      "response_patterns": [
+        "Dislikes long prompts"
+      ]
+    },
+    "bio": "When not doing Travel, I\u2019m probably discussing Gaming with friends.",
+    "uploaded_media": [
+      "https://randomuser.me/api/portraits/women/72.jpg"
+    ],
+    "personality_prompts": [
+      {
+        "prompt": "Fun fact",
+        "answer": "I once tried Travel and ended up loving it more than Gaming"
+      },
+      {
+        "prompt": "One thing I can talk about for hours",
+        "answer": "Travel, or why Gaming > Coding"
+      }
+    ]
+  }
+]
